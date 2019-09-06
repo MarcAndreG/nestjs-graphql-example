@@ -1,5 +1,5 @@
 import { Module } from '@nestjs/common';
-import { BooksModule } from './controllers/books/books.module';
+import { BooksModule } from './books/books.module';
 import { GraphQLModule } from '@nestjs/graphql';
 
 @Module({

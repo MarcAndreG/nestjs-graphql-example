@@ -11,5 +11,8 @@
     "baseUrl": "./",
     "incremental": true
   },
+  "angularCompilerOptions": {
+    "debug": true
+  },
   "exclude": ["node_modules"]
 }
